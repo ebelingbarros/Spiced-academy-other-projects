@@ -4,7 +4,7 @@
   <img width="65%" height="65%" src="https://github.com/spicedacademy/Spiced-academy-other-projects/Spiced_Logo_Purple-05-1.png"> 
 </p> 
 
-- [Project 1](https://github.com/spicedacademy/Spiced-academy-other-projects/week_01): Creating an animated scatterplot
+- [Project 1](https://github.com/ebelingbarros/Spiced-academy-other-projects/tree/main/week_01): Creating an animated scatterplot
 - Project 2 (forthcoming): Classification problem with Logistic Regression and with Random Forest: the Titanic datase
 - Project 3 (forthcoming): Linear Regression: predictions of bicycles demand
 - Project 4 (forthcoming): Text classification model of song lyrics
