@@ -1,0 +1,1 @@
+# Spiced-academy-other-projects
