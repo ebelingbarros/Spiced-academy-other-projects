@@ -8,7 +8,7 @@
 - Project 2 (forthcoming): Classification problem with Logistic Regression and with Random Forest: the Titanic datase
 - Project 3 (forthcoming): Linear Regression: predictions of bicycles demand
 - [Project 4](https://github.com/ebelingbarros/Spiced-academy-other-projects/tree/main/week_04): Text classification model of song lyrics
-- Project 5 (forthcoming): Northwind database dashboard
+- [Project 5](https://github.com/ebelingbarros/Spiced-academy-other-projects/tree/main/week_05): Northwind database dashboard
 - Project 6 (forthcoming): Data Pipeline/Twitter Sentiment Analysis
 - Project 7 (forthcoming): Predicting temperature with Time Series Analysis
 - Project 8 (forthcoming): Simulating customer behaviour in a supermarket with Markov Simulation.
