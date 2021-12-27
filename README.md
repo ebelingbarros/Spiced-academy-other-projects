@@ -5,7 +5,7 @@
 </p> 
 
 - [Project 1](https://github.com/ebelingbarros/Spiced-academy-other-projects/tree/main/week_01): Creating an animated scatterplot
-- Project 2 (forthcoming): Classification problem with Logistic Regression and with Random Forest: the Titanic datase
+- [Project 2](https://github.com/ebelingbarros/Spiced-academy-other-projects/tree/main/week_02): Classification problem with Logistic Regression and with Random Forest: the Titanic datase
 - Project 3 (forthcoming): Linear Regression: predictions of bicycles demand
 - [Project 4](https://github.com/ebelingbarros/Spiced-academy-other-projects/tree/main/week_04): Text classification model of song lyrics
 - [Project 5](https://github.com/ebelingbarros/Spiced-academy-other-projects/tree/main/week_05): Northwind database dashboard
